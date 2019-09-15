@@ -1,0 +1,27 @@
+body{
+	background-color: #79A0EA;
+}
+
+.profile_info, .avatar, svg {
+	background-color: #3638F4;
+	text-align:center;
+
+}
+
+.contact_info{
+	background-color: #ffffff;
+}
+
+.name{
+	color:#ffffff;
+	text-align: center;
+}
+.extract{
+	background-color: #ffffff;
+}
+
+.extract, p{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
