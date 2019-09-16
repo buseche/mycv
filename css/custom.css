@@ -1,0 +1,31 @@
+body {
+	background-color: #FBF9F9;
+}
+
+.top_head {
+	background-color: #207fA0;
+	border-bottom: solid;
+	border-color: #3799d9;
+}
+.clearfix{
+	border:solid;
+	border-bottom: solid;
+	border-color: #3799d9;	
+}
+
+svg {
+	border-color: #3799d9;
+	border-style: solid;
+	border-radius:150px;
+	text-align: center;
+}
+
+.skills{
+	background-color: #207fa0;
+	border-right: solid;
+	border-color: #3799d9;
+}
+
+.contact {
+	background-color:#73c3e2;
+}

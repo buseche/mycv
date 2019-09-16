@@ -25,3 +25,7 @@ body{
 	padding-bottom: 10px;
 }
 
+#sticky-footer {
+  flex-shrink: none;
+}
+
